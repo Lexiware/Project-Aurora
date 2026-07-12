@@ -1,5 +1,9 @@
+#include "hal.h"
+
 void hal_init()
 {
-	//CPU detection will go here later
-	//Interrupts will go here later
+    // Future:
+    // CPU detection
+    // Interrupt setup
+    // Timer initialization
 }

@@ -6,7 +6,7 @@ void kernel_main()
 
     volatile char* video = (volatile char*)0xB8000;
 
-    char* message = "AuroraOS Kernel 0.0.1";
+    char message[] = "AuroraOS v0.0.1 - First Light";
 
     for (int i = 0; message[i] != '\0'; i++)
     {
