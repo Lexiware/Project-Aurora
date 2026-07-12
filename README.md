@@ -1,3 +1,4 @@
+#Project Aurora :3
 Hiyas! Alexi here to explain the project!
 
 Project Aurora is an OS I am making just to learn how to make stuff like this! It is just a hobby so I cannot promise long term development.
